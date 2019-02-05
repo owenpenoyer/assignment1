@@ -1,3 +1,7 @@
-  a,p {
-                font-family: fantasy; 
-            }
+html {
+    color: darkblue
+    }
+
+a,p {
+                font-family: serif;
+    }
